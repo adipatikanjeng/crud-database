@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "illuminate/support": "~5.4.0|~5.5.0|~5.6.0|~5.7.0|~5.8.0",
+        "illuminate/support": "~5.5.0|~5.6.0|~5.7.0|~5.8.0",
         "intervention/image": "^2.4",
         "doctrine/dbal": "^2.5",
         "larapack/doctrine-support": "~0.1.4",
@@ -30,7 +30,7 @@
         "orchestra/testbench-browser-kit": "3.5",
         "phpunit/phpcov": "^4.0",
         "laravel/browser-kit-testing": "^2.0",
-        "laravel/laravel": "^5.5",
+        "laravel/framework": "~5.5.0|~5.6.0|~5.7.0|~5.8.0",
         "symfony/css-selector": "3.1"
     },
     "autoload": {
