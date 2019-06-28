@@ -1,5 +1,5 @@
 {
-    "name": "laraveladminpanel/admin",
+    "name": "adipatikanjeng/crud-database",
     "description": "A Laravel Admin Package to make your life easier and steer your project in the right direction",
     "keywords": ["laravel", "admin", "panel"],
     "license": "MIT",
@@ -10,8 +10,8 @@
     },
     "authors": [
         {
-            "name": "Alexey Kostenko",
-            "email": "aleksey.kostenko.dev@gmail.com"
+            "name": "Heriyadi",
+            "email": "adipatikanjeng@gmail.com"
         }
     ],
     "require": {
