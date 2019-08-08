@@ -1,10 +1,6 @@
 # Laravel Admin Panel
 
-forked from [the-control-group/voyager](https://github.com/the-control-group/voyager)
-
-Made with ❤️
-
-Website & Documentation: http://laraveladminpanel.com
+forked from [laraveladminpanel/admin](https://github.com/laraveladminpanel/admin)
 
 <hr>
 
